@@ -1,0 +1,12 @@
+a. use 2 microphones or one guitar pickup and one microphone
+   1. keep the 2 microphones at equal distances
+b. EQ - 1. use high pass at the lower freq to remove bacground noise(from cars etc..) anything below 50 (usually)
+        2. use freq between 2.5 - 4 khz to improve clarity of the guitar(make it sound more bright). scroll left to right to see which one sounds good
+        3. above 11-12 khz listen and see whether eq is needed or not(more clarity or not), sometimes it can sound ear piercing or sharp.  
+	4. sometimes acoustic guitar can be boxy.. it can be sound between 200-500 hz
+           note: use broader curves when improving sound and narrow curves when removing. will make the guitar sound more natural
+
+c. use compression
+d. use bridge sound for the right speaker(Right ear) and neck sound for the left speaker(L ear)
+e. reverb
+d. reverb secret technique(see once more)
